@@ -6,7 +6,7 @@
 👤 Usuario: entrepaginas
 🔑 Contraseña: sistema
 
-
+![Mi página](https://github.com/Daisuarez/EntrepaginasProyectoPotrero/blob/main/Captura%20de%20pantalla_16-12-2024_1101_localhost.jpeg)
 
 ## Descripción 
 
